@@ -1,5 +1,5 @@
 ## Hi there, my name is Cameron! 👋
----
+
 
 I'm a data enthusiast with a strong foundation in all things numbers, and I'm fascinated by the amazing insights data can provide. I got my Bachelor's in Statistics (and a minor in Economics) from Western Washington University, and this experience really honed my analytical abilities and nurtured a deep admiration for numerical data.
 
