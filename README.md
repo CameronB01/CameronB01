@@ -8,7 +8,7 @@ Currently, I'm pursuing a Master's in Data Science at Willamette University. Thi
 
 My GitHub showcases my abilities in data wrangling, exploratory data analysis, statistical modeling, machine learning, deep learning, and data visualization. I love uncovering patterns and trends hidden within datasets and turning them into insights you can act on.
 
-Outside the world of academia, I've had the opportunity to gather some hands-on experience through three summer internships as a data science intern at a tech startup. This experience allowed me to put my skills to the test and further sharpen my abilities to tackle real-world data challenges head-on.
+Outside the world of academia, I've had the opportunity to gather some hands-on experience through three summer internships as a data science intern at a tech startup. This experience allowed me to put my skills to the test and further sharpen my abilities to tackle real-world data challenges.
 
 With my strong academic background, hands-on work experience, and never-ending curiosity, I can't wait to contribute my skills to exciting projects and collaborate with other data enthusiasts like myself.
 
