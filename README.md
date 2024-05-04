@@ -1,19 +1,17 @@
-### Hi there 👋
+## Hi there, my name is Cameron! 👋
+---
 
+I'm a data enthusiast with a strong foundation in all things numbers, and I'm fascinated by the amazing insights data can provide. I got my Bachelor's in Statistics (and a minor in Economics) from Western Washington University, and this experience really honed my analytical abilities and nurtured a deep admiration for numerical data.
 
-I am a data enthusiast with a strong foundation in quantitative methods and a passion for leveraging data to drive insights. With a Bachelor's degree in Statistics and a minor in Economics from Western Washington University, I have honed my analytical skills and developed a deep appreciation for the power of numbers.
+Currently, I'm pursuing a Master's in Data Science at Willamette University. This program is significantly enhancing my knowledge and skills in the field. I will be graduating at the end of August. I'll have Python, R, and SQL in my toolkit, ready to tackle any complex data challenges that come my way.
 
-Currently pursuing a Master's in Data Science at Willamette University, I am expanding my knowledge and expertise in the field. Set to graduate in August 2024, I have gained proficiency in programming languages such as Python, R, and SQL, enabling me to tackle complex data challenges with ease.
+My GitHub showcases my abilities in data wrangling, exploratory data analysis, statistical modeling, machine learning, deep learning, and data visualization. I love uncovering patterns and trends hidden within datasets and turning them into insights you can act on.
 
-My portfolio showcases a variety of projects that demonstrate my abilities in data wrangling, exploratory data analysis, statistical modeling, machine learning, and data visualization. I thrive on uncovering patterns, trends, and relationships within datasets, and translating them into actionable insights.
+Outside the world of academia, I've had the opportunity to gather some hands-on experience through three summer internships as a data science intern at a tech startup. This experience allowed me to put my skills to the test and further sharpen my abilities to tackle real-world data challenges head-on.
 
-In addition to my academic pursuits, I have gained valuable hands-on experience through three summers as a data science intern at a tech startup. These internships have allowed me to apply my skills in a professional setting, further refining my abilities to solve real-world data challenges.
+With my strong academic background, hands-on work experience, and never-ending curiosity, I can't wait to contribute my skills to exciting projects and collaborate with other data enthusiasts like myself.
 
-As a quantitative finance enthusiast, I am particularly interested in applying my data science skills to the financial domain, leveraging advanced analytical techniques to drive informed decision-making and uncover profitable opportunities.
-
-With a strong academic background, practical work experience, and a relentless curiosity, I am eager to contribute my skills to innovative projects and collaborate with like-minded individuals in the data science community.
-
-
+Please feel free to reach out to me on my LinkedIn! I can't wait to hear from you!
 
 
 <!--
