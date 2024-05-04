@@ -16,8 +16,26 @@ With my strong academic background, hands-on work experience, and never-ending c
 
 ### Technical Skills:
 
-Programming Languages: Python, R, and SQL
+Programming Languages: Python, R, and SQL (PostgreSQL)
 
+Data Visualization: Python (Matplotlib, Seaborn, Plotly, Streamlit), R (ggplot and Shiny), Tableau (currently learning)
+
+Machine Learning: 
+- Packages:
+  - TensorFlow, Keras, Scikit-learn, Numpy, Pandas, NLTK
+- Algorithms: 
+  - Supervised Learning:
+    - Linear regression, Logistic regression, Naive Bayes, Linear discriminant analysis (LDA), Decision trees, Random Forests, NLP, K-nearest neighbor (KNN), Support-vector machines
+  - Unsupervised Learning:
+    - K means clustering, principal Component Analysis, NLP
+  - Deep Learning:
+    - Keras
+    - Convolutional Neural Networks (CNN)
+  - Reinforcement Learning:
+    - Stable Baselines3
+    - OpenAI Gymnasium
+
+Data Engineering: PostgreSQL, pgAdmin4, Docker, Railway, Bash
 
 
 ---
