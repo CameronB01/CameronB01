@@ -12,7 +12,6 @@ Outside the world of academia, I've had the opportunity to gather some hands-on 
 
 With my strong academic background, hands-on work experience, and never-ending curiosity, I can't wait to contribute my skills to exciting projects and collaborate with other data enthusiasts like myself.
 
----
 
 ## Technical Skills:
 
