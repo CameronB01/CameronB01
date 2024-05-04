@@ -1,6 +1,6 @@
-## Hi there, my name is Cameron! 👋
+# Hi there, my name is Cameron! 👋
 
-### About Me:
+## About Me:
 
 I'm a data enthusiast with a strong foundation in all things numbers, and I'm fascinated by the amazing insights data can provide. I got my Bachelor's in Statistics (and a minor in Economics) from Western Washington University, and this experience really honed my analytical abilities and nurtured a deep admiration for numerical data.
 
@@ -14,7 +14,7 @@ With my strong academic background, hands-on work experience, and never-ending c
 
 ---
 
-### Technical Skills:
+## Technical Skills:
 
 **Programming Languages:** Python, R, and SQL (PostgreSQL)
 
@@ -40,7 +40,9 @@ With my strong academic background, hands-on work experience, and never-ending c
 
 ---
 
-### Work Experience:
+## Work Experience:
+
+### Data Science Intern:
 
 I've gained valuable hands-on experience as a data science intern over the course of three summers at a tech startup. During my internships, I:
 - Built a web scraping tool to classify hard skills, which was integrated into the core application.
@@ -50,10 +52,19 @@ I've gained valuable hands-on experience as a data science intern over the cours
 - Collaborated effectively within a team.
 - Provided progress reports during daily stand-up meetings.
 
+### Master's Student:
+During this master's program I:
+- Analyzed many datasets and generated reports based on my findings.
+- Built data pipelines with SQL.
+- Developed a Formula 1 dashboard using R shiny.
+- Have applied survival analysis techniques to real-world problems.
+- Applied Decision Trees, Random Forests, and Reinforcement Learning to identify optimal decisions for every possible hand in Blackjack.
+  - I built a custom environment for this project and tested PPO and A2C models for the best performance.
+
 
 ---
 
-### My Contact Info:
+## My Contact Info:
 
 Please feel free to reach out to me with any questions! I can't wait to hear from you!
 
