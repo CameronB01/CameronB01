@@ -16,11 +16,11 @@ With my strong academic background, hands-on work experience, and never-ending c
 
 ### Technical Skills:
 
-Programming Languages: Python, R, and SQL (PostgreSQL)
+**Programming Languages:** Python, R, and SQL (PostgreSQL)
 
-Data Visualization: Python (Matplotlib, Seaborn, Plotly, Streamlit), R (ggplot and Shiny), Tableau (currently learning)
+**Data Visualization:** Python (Matplotlib, Seaborn, Plotly, Streamlit), R (ggplot and Shiny), Tableau (currently learning)
 
-Machine Learning: 
+**Machine Learning:**
 - Packages:
   - TensorFlow, Keras, Scikit-learn, Numpy, Pandas, NLTK
 - Algorithms: 
@@ -35,7 +35,7 @@ Machine Learning:
     - Stable Baselines3
     - OpenAI Gymnasium
 
-Data Engineering: PostgreSQL, pgAdmin4, Docker, Railway, Bash
+**Data Engineering:** PostgreSQL, pgAdmin4, Docker, Railway, Bash
 
 
 ---
