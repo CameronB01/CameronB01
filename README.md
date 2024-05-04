@@ -11,7 +11,40 @@ Outside the world of academia, I've had the opportunity to gather some hands-on 
 
 With my strong academic background, hands-on work experience, and never-ending curiosity, I can't wait to contribute my skills to exciting projects and collaborate with other data enthusiasts like myself.
 
-Please feel free to reach out to me on my LinkedIn! I can't wait to hear from you!
+### Technical Skills:
+
+Programming Languages: Python, R, and SQL
+
+
+
+
+
+### Work Experience:
+
+I've gained valuable hands-on experience as a data science intern over the course of three summers at a tech startup. During my internships, I:
+- Built a web scraping tool to classify hard skills, which was integrated into the core application.
+- Built a data conversion tool to convert CSV files to XML format.
+- Conducted code reviews for multiple projects.
+- Carried out manual data transformation tasks.
+- Collaborated effectively within a team.
+- Provided progress reports during daily stand-up meetings.
+
+
+
+
+### My Contact Info:
+
+Please feel free to reach out to me with any questions! I can't wait to hear from you!
+
+Email: cambay46@gmail.com (This is the best way to get a hold of me)
+
+Phone: (425)-301-4484
+
+LinkedIn: www.linkedin.com/in/cameron-bayer
+
+
+
+
 
 
 <!--
