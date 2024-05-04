@@ -37,7 +37,6 @@ With my strong academic background, hands-on work experience, and never-ending c
 **Data Engineering:** PostgreSQL, pgAdmin4, Docker, Railway, Bash
 
 
----
 
 ## Work Experience:
 
@@ -61,7 +60,6 @@ During this master's program I:
   - I built a custom environment for this project and tested PPO and A2C models for the best performance.
 
 
----
 
 ## My Contact Info:
 
