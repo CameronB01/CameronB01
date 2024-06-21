@@ -26,10 +26,10 @@ With my strong academic background, hands-on work experience, and never-ending c
   - Supervised Learning:
     - Linear regression, Logistic regression, Naive Bayes, Linear discriminant analysis (LDA), Decision trees, Random Forests, NLP, K-nearest neighbor (KNN), Support-vector machines
   - Unsupervised Learning:
-    - K means clustering, principal Component Analysis, NLP
+    - K means clustering, Principal Component Analysis, NLP
   - Deep Learning:
     - Keras
-    - Convolutional Neural Networks (CNN)
+    - TensorFlow
   - Reinforcement Learning:
     - Stable Baselines3
     - OpenAI Gymnasium
