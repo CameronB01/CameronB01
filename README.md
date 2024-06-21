@@ -17,7 +17,7 @@ With my strong academic background, hands-on work experience, and never-ending c
 
 **Programming Languages:** Python, R, and SQL (PostgreSQL)
 
-**Data Visualization:** Python (Matplotlib, Seaborn, Plotly, Streamlit), R (ggplot and Shiny), Tableau (currently learning)
+**Data Visualization:** Python (Matplotlib, Seaborn, Plotly, Streamlit), R (ggplot and Shiny)
 
 **Machine Learning:**
 - Packages:
