@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I'm a data enthusiast with a strong foundation in all things numbers, and I'm fascinated by the amazing insights data can provide. I got my Bachelor's in Statistics (and a minor in Economics) from Western Washington University, and this experience really honed my analytical abilities and nurtured a deep admiration for numerical data.
+I'm a data enthusiast with a strong foundation in all things numbers, and I'm fascinated by the amazing insights data can provide. I got my Bachelor's in Statistics (and a minor in Economics) from Western Washington University, and this experience really honed my analytical abilities and nurtured a deep admiration for data.
 
 Currently, I'm pursuing a Master's in Data Science at Willamette University. This program is significantly enhancing my knowledge and skills in the field. I will be graduating at the end of August. I'll have Python, R, and SQL in my toolkit, ready to tackle any complex data challenges that come my way.
 
